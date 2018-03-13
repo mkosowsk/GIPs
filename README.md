@@ -15,20 +15,20 @@ First review [GIP-1](GIPS/gip-1.md). Then clone the repository and add your GIP 
 # Non-final GIPs
 | Number                    | Title                                                   | Author                        | Layer     | Status     |
 | ------------------------- | ------------------------------------------------------- | ----------------------------- | --------- | ---------- |
-| [X](/GIPS/gip-x.md)    | N/A   | N/A                            | N/A       | N/A    |
+| [X](gip-x.md)    | N/A   | N/A                            | N/A       | N/A    |
 
 
 # Deferred GIPs
 | Number                                             | Title                                                                                        | Author                                     | Layer      | Status   |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------ | ---------- | -------- |
-| [X](GIPS/gip-x.md)    | N/A   | N/A                            | N/A       | N/A    |
+| [X](gip-x.md)    | N/A   | N/A                            | N/A       | N/A    |
 
 
 # Finalized GIPs 
 ## (standards that have been adopted)
 | Number                                             | Title                                                                                        | Author                                     | Layer      | Status   |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------| ---------- | -------- |
-| [X](GIPS/gip-x.md)    | N/A   | N/A                           | N/A       | N/A    |
+| [X](gip-x.md)    | N/A   | N/A                           | N/A       | N/A    |
 
 # Active GIPs 
 ## (standards that have been adopted but never meant to be completed)
