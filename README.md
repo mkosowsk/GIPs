@@ -4,7 +4,7 @@ Gitcoin Improvement Proposals (GIPs) describe standards for the Gitcoin platform
 This process is a fork of [Ethereum EIPs](https://github.com/ethereum/GIPs).
 
 # Contributing
-First review [GIP-1](GIPS/gip-1.md). Then clone the repository and add your GIP to it. There is a [template GIP here](gip-x.md). Then submit a Pull Request to Gitcoin's [GIPs repository](https://github.com/gitcoinco/GIPs).
+First review [GIP-1](GIPS/gip-1.md). Then clone the repository and add your GIP to it. There is a [template GIP here](gip-X.md). Then submit a Pull Request to Gitcoin's [GIPs repository](https://github.com/gitcoincoco/GIPs).
 
 # GIP status terms
 * **Draft** - an GIP that is open for consideration
@@ -15,20 +15,20 @@ First review [GIP-1](GIPS/gip-1.md). Then clone the repository and add your GIP 
 # Non-final GIPs
 | Number                    | Title                                                   | Author                        | Layer     | Status     |
 | ------------------------- | ------------------------------------------------------- | ----------------------------- | --------- | ---------- |
-| [X](gip-x.md)    | N/A   | N/A                            | N/A       | N/A    |
+| [X](gip-X.md)    | N/A   | N/A                            | N/A       | N/A    |
 
 
 # Deferred GIPs
 | Number                                             | Title                                                                                        | Author                                     | Layer      | Status   |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------ | ---------- | -------- |
-| [X](gip-x.md)    | N/A   | N/A                            | N/A       | N/A    |
+| [X](gip-X.md)    | N/A   | N/A                            | N/A       | N/A    |
 
 
 # Finalized GIPs 
 ## (standards that have been adopted)
 | Number                                             | Title                                                                                        | Author                                     | Layer      | Status   |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------| ---------- | -------- |
-| [X](gip-x.md)    | N/A   | N/A                           | N/A       | N/A    |
+| [X](gip-X.md)    | N/A   | N/A                           | N/A       | N/A    |
 
 # Active GIPs 
 ## (standards that have been adopted but never meant to be completed)
