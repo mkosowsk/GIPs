@@ -15,7 +15,7 @@ First review [GIP-1](GIPS/gip-1.md). Then clone the repository and add your GIP 
 # Non-final GIPs
 | Number                    | Title                                                   | Author                        | Layer     | Status     |
 | ------------------------- | ------------------------------------------------------- | ----------------------------- | --------- | ---------- |
-| [X](GIPS/gip-x.md)    | N/A   | N/A                            | N/A       | N/A    |
+| [X](/GIPS/gip-x.md)    | N/A   | N/A                            | N/A       | N/A    |
 
 
 # Deferred GIPs
