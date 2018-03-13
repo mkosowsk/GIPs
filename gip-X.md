@@ -8,7 +8,7 @@ Note that an GIP number will be assigned by an editor. When opening a pull reque
     Title: <GIP title>
     Author: <list of authors' names and optionally, email addresses>
     Type: <Standard Track | Informational | Meta>
-    Category (*only required for Standard Track): <Core | Networking | Interface | ERC> 
+    Category (*only required for Standard Track): <Core | Networking | Interface | GRC> 
     Status: Draft
     Created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
     Requires (*optional): <GIP number(s)>

@@ -1,10 +1,12 @@
 # GIPs
 Gitcoin Improvement Proposals (GIPs) describe standards for the Gitcoin platform, including core protocol specifications, client APIs, community standards, and contract standards.
 
-This process is a fork of [Ethereum EIPs](https://github.com/ethereum/GIPs).
+This process is a fork of [Ethereum EIPs](https://github.com/ethereum/EIPs).
+
+Discuss on [Gitcoin Slack](https://gitcoin.co/slack) in the <i>#community-GIPs</i> channel.
 
 # Contributing
-First review [GIP-1](GIPS/gip-1.md). Then clone the repository and add your GIP to it. There is a [template GIP here](gip-X.md). Then submit a Pull Request to Gitcoin's [GIPs repository](https://github.com/gitcoincoco/GIPs).
+First review [GIP-1](GIPS/gip-1.md). Then clone the repository and add your GIP to it. There is a [template GIP here](gip-X.md). Then submit a Pull Request to Gitcoin's [GIPs repository](https://github.com/gitcoinco/GIPs).
 
 # GIP status terms
 * **Draft** - an GIP that is open for consideration
