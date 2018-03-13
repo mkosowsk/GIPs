@@ -4,7 +4,7 @@ Gitcoin Improvement Proposals (GIPs) describe standards for the Gitcoin platform
 This process is a fork of [Ethereum EIPs](https://github.com/ethereum/GIPs).
 
 # Contributing
-First review [GIP-1](GIPS/GIP-1.md). Then clone the repository and add your GIP to it. There is a [template GIP here](GIP-X.md). Then submit a Pull Request to Ethereum's [GIPs repository](https://github.com/ethereum/GIPs).
+First review [GIP-1](GIPS/gip-1.md). Then clone the repository and add your GIP to it. There is a [template GIP here](GIP-X.md). Then submit a Pull Request to Ethereum's [GIPs repository](https://github.com/ethereum/GIPs).
 
 # GIP status terms
 * **Draft** - an GIP that is open for consideration
@@ -15,25 +15,27 @@ First review [GIP-1](GIPS/GIP-1.md). Then clone the repository and add your GIP 
 # Non-final GIPs
 | Number                    | Title                                                   | Author                        | Layer     | Status     |
 | ------------------------- | ------------------------------------------------------- | ----------------------------- | --------- | ---------- |
-| [X](GIPS/GIP-X.md)    | N/A   | Vitalik Buterin                            | N/A       | N/A    |
+| [X](GIPS/GIP-X.md)    | N/A   | N/A                            | N/A       | N/A    |
 
 
 # Deferred GIPs
 | Number                                             | Title                                                                                        | Author                                     | Layer      | Status   |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------ | ---------- | -------- |
-| [X](GIPS/GIP-X.md)    | N/A   | Vitalik Buterin                            | N/A       | N/A    |
+| [X](GIPS/GIP-X.md)    | N/A   | N/A                            | N/A       | N/A    |
 
 
-# Finalized GIPs (standards that have been adopted)
+# Finalized GIPs 
+## (standards that have been adopted)
 | Number                                             | Title                                                                                        | Author                                     | Layer      | Status   |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------| ---------- | -------- |
-| [X](GIPS/GIP-X.md)    | N/A   | Vitalik Buterin                            | N/A       | N/A    |
+| [X](GIPS/GIP-X.md)    | N/A   | N/A                           | N/A       | N/A    |
 
-# Active GIPs (standards that have been adopted but never meant to be completed)
+# Active GIPs 
+## (standards that have been adopted but never meant to be completed)
 
 | Number                                             | Title                                                                                        | Author                                     | Layer      | Status   |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------| ---------- | -------- |
-| [1](GIPS/GIP-1.md)                                 | GIP Purpose and Guidelines                                                                   | Martin Becze, Hudson Jameson (EIP).  Kevin Owocki (GIP)               | Meta       | Active    |
+| [1](GIPS/gip-1.md)                                 | GIP Purpose and Guidelines                                                                   | Martin Becze, Hudson Jameson (EIP).  Kevin Owocki (GIP)               | Meta       | Active    |
 
 # Past Hard Forks
 | Codename                              | Aliases                     | Block number   | Date (UTC) |
