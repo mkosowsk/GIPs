@@ -30,7 +30,8 @@ First review [GIP-1](GIPS/gip-1.md). Then clone the repository and add your GIP 
 ## (standards that have been adopted)
 | Number                                             | Title                                                                                        | Author                                     | Layer      | Status   |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------| ---------- | -------- |
-| [X](gip-X.md)    | N/A   | N/A                           | N/A       | N/A    |
+| [1](GIPS/gip-1.md)    | GIP Process   | Kevin Owocki                           | N/A       | Active    |
+| [2](GIPS/gip-2.md)    | OKRs Q2 2018   | Kevin Owocki                          | N/A       | Active    |
 
 # Active GIPs 
 ## (standards that have been adopted but never meant to be completed)
