@@ -12,7 +12,7 @@
 
 * increasing the number of emails/twitter/slack followers by 2x
 * scale to $100k worth of lifetime work on the platform
-* scale to $25k worth of open work on the platform
+* scale to $15k worth of open work on the platform
 * have 15 repeat (3+ times) repo customers
 
 
