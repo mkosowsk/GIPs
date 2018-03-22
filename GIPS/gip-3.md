@@ -37,7 +37,7 @@
  
 # ecosystem
 
-* Build relationships at github
+* Build relationships with web2 infrastructure projects 
 * Maintain an above average diversity percentage in the team
 * Maintain an above average diversity percentage in the community
 
