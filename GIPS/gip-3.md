@@ -14,7 +14,7 @@
 * scale to $100k worth of lifetime work on the platform
 * scale to $25k worth of open work on the platform
 * have 15 repeat (3+ times) repo customers
-
+* Build relationships at github
 
 # understand our customer
 
@@ -24,20 +24,5 @@
   - If they give up, when?
 * plug leaks in the cohort analysis
 * have a 9 NPS
-
-# rapid hypothesis testing in OSS sustainability
-
 * launch our secret project
-* launch/test at least 3 OSS funding tools
-
-# rapid hypothesis testing in blockchain UX
-
-* launch/test at least 2 bold blockchain UX projects
-
- 
-# ecosystem
-
-* Build relationships at github
-* Maintain an above average diversity percentage in the team
-* Maintain an above average diversity percentage in the community
 
