@@ -1,7 +1,7 @@
 ## Preamble
 ```
 GIP: <to be assigned>
-Title: Implement SCSS Compiling
+Title: Implement Sass or LESS Compiling
 Author: Mark Beacom, Olaf Ghanizadeh, Mitch Kosowski, Ian Liddle, Josh Mobley, Kevin Owocki, Elan Trybuch
 Type: Standard track
 Category: Front-end
