@@ -31,7 +31,44 @@ N/A
 
 ## Test Cases
 
+0. Build process that leverages SCSS to consolidate styling across the app
+1. Preserve all current functionality (do no harm)
+
 ## Implementation
+
+This initiative will be chunked into smaller segments with a staggered bounty schedule starting with the homepage.
+
+B lock E lement M odifier aka BEM will be used to write both class names and css. 
+
+take for example this simple <img> element:
+
+<img src="https://gitcoin.co/static/v2/images/tldr/bounties.574eee54d651.jpg">
+
+using BEM it could be re-written in the following manner where p could stand for pattern. In this case p-image is the pattern block __image is the pattern element and --jpg is the modifier.
+
+<div class="p-image">
+  <img class="p-image__image p-image__image--jpg" src="https://gitcoin.co/static/v2/images/tldr/bounties.574eee54d651.jpg">`
+</div>
+This lets us re-write .css from:
+
+.tldr_container img {
+    max-width: 250px;
+    max-height: 250px;
+}
+to:
+
+.p-image {
+  &__image{
+    &--jpg{
+      max-width: 250px;
+      max-height: 250px;
+    }
+  }
+}
+
+This me keeps the .css contained. This can also let us create a pattern for reusability and increase performance by using “[reference](https://css-tricks.com/reference-imports-in-less-are-kinda-cool/)”:
+
+@import (reference) '/path/to/patterns/image/image.less
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
