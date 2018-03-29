@@ -31,7 +31,7 @@ N/A
 
 ## Test Cases
 
-0. Build process that leverages SCSS to consolidate styling across the app
+0. Build process that leverages Sass or LESS to consolidate styling across the app
 1. Preserve all current functionality (do no harm)
 
 ## Implementation
