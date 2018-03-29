@@ -38,7 +38,7 @@ N/A
 
 This initiative will be chunked into smaller segments with a staggered bounty schedule starting with the homepage.
 
-B lock E lement M odifier aka BEM will be used to write both class names and css. 
+*B* lock *E* lement *M* odifier aka BEM will be used to write both class names and css. 
 
 For example consider this simple `<img>` element:
 ```
