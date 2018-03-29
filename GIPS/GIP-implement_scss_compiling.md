@@ -10,8 +10,8 @@ Created: 2018-03-28
 ```
 ## Simple Summary
 
-As I Gitcoin developer
-I would like to have have consolidated styling (view layer abstracted away from logic)
+As I Gitcoin developer  
+I would like to have have consolidated styling (view layer abstracted away from logic)  
 So that I can quickly make global styling changes across the app and have re-useable components, variables, etc.
 
 ## Motivation
