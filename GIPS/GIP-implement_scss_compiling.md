@@ -1,5 +1,5 @@
 ## Preamble
-
+```
 GIP: <to be assigned>
 Title: Implement SCSS Compiling
 Author: Mark Beacom, Olaf Ghanizadeh, Mitch Kosowski, Ian Liddle, Josh Mobley, Kevin Owocki, Elan Trybuch, 
@@ -7,7 +7,7 @@ Type: Standard track
 Category: Front-end
 Status: Draft
 Created: 2018-03-28
-
+```
 ## Simple Summary
 
 As I Gitcoin developer
@@ -44,20 +44,21 @@ take for example this simple `<img>` element:
 ```
 <img src="https://gitcoin.co/static/v2/images/tldr/bounties.574eee54d651.jpg">
 ```
-using BEM it could be re-written in the following manner where p could stand for pattern. In this case p-image is the pattern block __image is the pattern element and --jpg is the modifier.
+using BEM it could be re-written in the following manner where p could stand for pattern. In this case `p-image` is the pattern `block __image` is the pattern element and `--jpg` is the modifier.
 ```
 <div class="p-image">
   <img class="p-image__image p-image__image--jpg" src="https://gitcoin.co/static/v2/images/tldr/bounties.574eee54d651.jpg">`
 </div>
 ```
 This lets us re-write .css from:
-
+```
 .tldr_container img {
     max-width: 250px;
     max-height: 250px;
 }
+```
 to:
-
+```
 .p-image {
   &__image{
     &--jpg{
@@ -66,10 +67,12 @@ to:
     }
   }
 }
-
+```
 This me keeps the .css contained. This can also let us create a pattern for reusability and increase performance by using [reference](https://css-tricks.com/reference-imports-in-less-are-kinda-cool/):
-
+```
 @import (reference) '/path/to/patterns/image/image.less
+```
+
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
