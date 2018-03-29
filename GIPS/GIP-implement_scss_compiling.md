@@ -44,7 +44,7 @@ For example consider this simple `<img>` element:
 ```
 <img src="https://gitcoin.co/static/v2/images/tldr/bounties.574eee54d651.jpg">
 ```
-using BEM it will be re-written in the following manner where p could stand for pattern. In this case `p-image` is the pattern block `__image` is the pattern element and `--jpg` is the modifier.
+using BEM it will be re-written in the following manner where p could stand for pattern. In this case `p-image` is the pattern block, `__image` is the pattern element, and `--jpg` is the modifier.
 ```
 <div class="p-image">
   <img class="p-image__image p-image__image--jpg" src="https://gitcoin.co/static/v2/images/tldr/bounties.574eee54d651.jpg">`
