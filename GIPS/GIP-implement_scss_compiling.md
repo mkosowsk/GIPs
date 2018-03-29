@@ -68,11 +68,18 @@ to:
   }
 }
 ```
-This me keeps the .css contained. This can also let us create a pattern for reusability and increase performance by using [reference](https://css-tricks.com/reference-imports-in-less-are-kinda-cool/):
+This keeps the .css contained. This can also let us create a pattern for reusability and increase performance by using [reference](https://css-tricks.com/reference-imports-in-less-are-kinda-cool/):
 ```
 @import (reference) '/path/to/patterns/image/image.less
 ```
 
-
+Files will be broken out so any new developer coming in can quickly identify and implement bug-fixes, enhancements, new features etc.
+```
+/styles/base/colors.less
+/styles/base/spacing.less
+/styles/base/type.less
+/styles/base/breakpoints.less
+/styles/base/etc..
+```
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
