@@ -83,6 +83,6 @@ Files will be broken out so any new developer coming in can quickly identify and
 ```
 
 ## TBD
-Deciding between LESS vs. Sass. [Trends](https://insights.stackoverflow.com/trends?tags=sass%2Cless/)show that Sass is on the upswing and as fostering as much community contribution as possible is one of the goals of Gitcoin Sass will be used **TODO: CONFIRM THIS APPROACH**
+Deciding between LESS vs. Sass. [Trends](https://insights.stackoverflow.com/trends?tags=sass%2Cless/) show that Sass is on the upswing and as fostering as much community contribution as possible is one of the goals of Gitcoin Sass will be used **TODO: CONFIRM THIS APPROACH**
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
