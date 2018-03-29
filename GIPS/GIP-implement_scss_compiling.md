@@ -2,7 +2,7 @@
 ```
 GIP: <to be assigned>
 Title: Implement SCSS Compiling
-Author: Mark Beacom, Olaf Ghanizadeh, Mitch Kosowski, Ian Liddle, Josh Mobley, Kevin Owocki, Elan Trybuch, 
+Author: Mark Beacom, Olaf Ghanizadeh, Mitch Kosowski, Ian Liddle, Josh Mobley, Kevin Owocki, Elan Trybuch
 Type: Standard track
 Category: Front-end
 Status: Draft
@@ -14,7 +14,7 @@ As I Gitcoin developer
 I would like to have have consolidated styling (view layer abstracted away from logic)
 So that I can quickly make global styling changes across the app and have re-useable components, variables, etc.
 
-Motivation
+## Motivation
 
 Current styling in the site is “[is messy and a hassle to edit](https://github.com/gitcoinco/web/issues/135)”
 
